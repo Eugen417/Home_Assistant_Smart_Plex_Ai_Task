@@ -52,7 +52,7 @@ The following components are required for operation:
 To communicate between the script and the Voice Assistant, an intermediate script is needed.
 Create a new script in Home Assistant (**Settings -> Automations & Scenes -> Scripts -> Add Script**) and paste this YAML code:
 
-*Do not forget to give the AI access to this script in the Assistant settings!*
+*Make sure to grant this script access to Dialog systems in the Script settings!*
 
 ```yaml
 alias: Smart Plex Bridge
