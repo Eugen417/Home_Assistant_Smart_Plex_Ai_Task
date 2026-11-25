@@ -1,3 +1,5 @@
+> **Обновление:** *Pyscript Smart Plex Launcher* переработан в самостоятельную кастомную интеграцию — **[SmartPlex Integration for Home Assistant](https://github.com/Eugen417/ha_plex_smart)**.
+
 # 🎬 PYScript Smart Plex Launcher
 
 **Описание:**
